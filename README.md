@@ -1,3 +1,3 @@
-# Ricerca & Ordinamento su Array 
+# INFORMATICA di BASE 
 
-vedi presentazione https://gitpitch.com/checksound/Ricerca-Ordinamento-ArrayAssociativi
+vedi presentazione https://gitpitch.com/checksound/INFORMATICA_BASE

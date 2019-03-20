@@ -1,4 +1,4 @@
-# Ricerca & Ordinamento & Array associativi
+# INFORMATICA BASE
 
 ---
 
