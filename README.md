@@ -1,3 +1,4 @@
 # INFORMATICA di BASE 
 
-vedi presentazione https://gitpitch.com/checksound/INFORMATICA_BASE
+Vedi doc: [Codifica Binaria](./INFORMATICA BASE.pdf)
+
